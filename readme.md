@@ -7,8 +7,7 @@
 ├─ project-name/            colores-en-vivo
 
 | ├─ client/
-| |     ├─ public/          Less/ ,bootstrap.bundle.min.js, bootstrap.min.css
-| |     ├─ src/
+| |     ├─ public/          bootstrap.bundle.min.js, bootstrap.min.css
 
 | ├─ node_modules/          Autogenerado
 
@@ -43,8 +42,8 @@ Bonus                   Hacer un boton que
 
 Para Avanzar/Terminar   avanzar en bonus
 Repositorio             SI
-GitHub                  https://github.com/Khereltrad/
-En Plataforma           No
+GitHub                  https://github.com/Khereltrad/colores_en_vivo
+En Plataforma           Si
 
 
 --------------------------------------------------------------------------------
